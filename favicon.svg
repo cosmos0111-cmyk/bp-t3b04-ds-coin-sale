@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity c7334185d904290f</metadata>
-  <rect width="64" height="64" rx="14" fill="hsl(235 76% 25%)"/>
-  <path d="M38 0h26v64H24Z" fill="hsl(348 59% 71%)" opacity="0.82"/>
-  <g transform="rotate(186 32 32)" opacity="0.42"><path d="M12 34h40M32 12v40" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">DI</text>
+  <title>당산 코인노래방 할인</title>
+  <rect width="64" height="64" rx="17" fill="hsl(235 73% 37%)"/>
+  <path d="M64 0v26L38 0Z" fill="hsl(355 68% 63%)" opacity="0.16"/>
+  <g transform="rotate(180 32 32)"><path d="M32 12 52 32 32 52 12 32Z" fill="none" stroke="hsl(235 24% 96%)" stroke-width="6" stroke-linejoin="round"/><path d="M32 24 40 32 32 40 24 32Z" fill="hsl(355 68% 63%)"/></g>
 </svg>
